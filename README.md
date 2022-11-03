@@ -1,1 +1,1 @@
-# GitSessionUnicode
+# Git Session Unicode
